@@ -1,0 +1,10 @@
+# Projects created by deploy_agent.sh while testing
+attendance_tracker_*/
+
+# Zip archives created by the Ctrl+C / Ctrl+Z handler
+*.zip
+
+# Editor and system files
+.DS_Store
+.vscode/
+*.swp
