@@ -2,8 +2,6 @@
 
 A shell script (`deploy_agent.sh`) that deploys, runs, and archives the logs of the Student Attendance Tracker, a Python application. It also handles Ctrl+C and Ctrl+Z cleanly while a deployment is in progress.
 
-> **Note:** This is an example README. Edit every section so it matches what *your* script actually does (menu wording, validation rules, copy vs move, and so on).
-
 ## Requirements
 
 - Linux or macOS with Bash
@@ -13,7 +11,7 @@ A shell script (`deploy_agent.sh`) that deploys, runs, and archives the logs of 
 ## Repository Structure
 
 ```
-deploy_agent_YourUsername/
+deploy_agent_Dave-ish/
 ├── deploy_agent.sh
 ├── README.md
 ├── .gitignore
